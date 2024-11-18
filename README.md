@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Brasileiro, 20 anos, residente em Divinópolis – MG. <br><br>FORMAÇÃO: Ciências da Computação – Una Divinópolis (CURSANDO). <br><br>Desenvolvedor Java - Backend / Javascript FullStack. <br>experiência em HTML, CSS e Javascript, React.js, Node.js e Express.js, APIs com rest, e teste das APIs, usando Postman.</p>
+<p align="left">FORMAÇÃO: Ciências da Computação – Una Divinópolis (CURSANDO). <br><br>- Desenvolvedor Java - Backend <br>- Javascript FullStack.</p>
 
 ###
 
@@ -72,9 +72,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/juninhorx/juninhorx/output/snake.svg" alt="Snake animation" />
 
 ###
