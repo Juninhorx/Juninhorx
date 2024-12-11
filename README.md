@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">FORMAÇÃO: Ciências da Computação – Una Divinópolis (CURSANDO). <br><br>- Desenvolvedor Java - Backend <br>- Javascript FullStack.</p>
+<p align="left">FORMAÇÃO: Ciências da Computação – Una Divinópolis (CURSANDO). <br><br>- Java - Backend <br>- Javascript FullStack.<br>- PHP Laravel  FullStack</p>
 
 ###
 
@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
@@ -36,6 +36,12 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
 ###
@@ -53,10 +59,6 @@
 ###
 
 <h2 align="left">Social media</h2>
-
-###
-
--> [Portfólio](https://portifolio-liard-three.vercel.app/)
 
 ###
 
